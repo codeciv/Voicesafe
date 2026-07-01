@@ -1,7 +1,5 @@
 # 📱 Prototype Walkthrough
-<p align="center">
-  <img src="voicesafe_prototype_images/1.jpg" alt="Prototype 1" width="900">
-</p>
+![Prototype 1](voicesafe_prototype_images/1.jpg)
 
 
 ## 🚀 1. Getting Started
