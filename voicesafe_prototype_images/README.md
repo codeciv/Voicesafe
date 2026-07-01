@@ -1,6 +1,5 @@
 # 📱 Prototype Walkthrough
-![Prototype 1](voicesafe_prototype_images/1.jpg)
-
+![Prototype 1](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/1.jpg)
 
 ## 🚀 1. Getting Started
 
@@ -15,11 +14,9 @@ Whether they're reporting a delayed payment after a long shift or unsafe working
 * 🏠 Dashboard
 * 🎙️ Voice & Text Complaint
 
-```markdown
-<p align="center">
-  <img src="voicesafe_prototype_images/2.png" width="900">
-</p>
-```
+
+![Prototype 2](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/2.jpg)
+
 
 ---
 
@@ -38,9 +35,8 @@ Instead of filling out government-style forms, workers simply describe what happ
 * 📋 Complaint Details
 * ✅ Review & Confirm
 
-```markdown
-![Complaint Filing](images/prototype-2.png)
-```
+![Prototype 3](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/3.jpg)
+
 
 ---
 
@@ -59,9 +55,7 @@ By educating workers while helping them, VoiceSafe transforms from a complaint p
 * 📚 Learning Resources
 * 🎓 Educational Hub
 
-```markdown
-![Rights Awareness](images/prototype-3.png)
-```
+![Prototype 4](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/4.jpg)
 
 ---
 
@@ -80,9 +74,8 @@ The result is a smoother grievance process that benefits both workers and regula
 * 👀 Final Review
 * 🚀 Submit Complaint
 
-```markdown
-![Complaint Submission](images/prototype-4.png)
-```
+![Prototype 5](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/5.jpg)
+
 
 ---
 
@@ -101,9 +94,8 @@ Instead of feeling ignored, workers remain informed throughout the entire grieva
 * 👤 Worker Dashboard
 * 📂 Profile & Complaint History
 
-```markdown
-![Case Tracking](images/prototype-5.png)
-```
+![Prototype 6](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/6.jpg)
+
 
 ---
 
@@ -118,9 +110,8 @@ During emergencies, workers can also access immediate support and important help
 * 🌐 Multilingual Chatbot
 * 🚨 Emergency Help
 
-```markdown
-![Accessibility & Emergency](images/prototype-6.png)
-```
+![Prototype 7](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/7.jpg)
+
 
 ---
 
