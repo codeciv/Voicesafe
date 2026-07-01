@@ -13,7 +13,8 @@ While researching the challenges faced by gig workers, we realized that most dis
 
 ---
 
-## 💡 Our Solution
+## 💡 Our Solution 
+![CRaSH](https://raw.githubusercontent.com/codeciv/Voicesafe/main/voicesafe_prototype_images/crash_framework.png)
 
 VoiceSafe is part of our proposed **CRaSH Framework (Competency, Remuneration, Safety & Hybrid Infrastructure)**. It is a government-backed digital grievance platform that helps gig workers report workplace issues quickly through an AI-powered chatbot available in multiple Indian languages.
 
